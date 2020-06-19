@@ -1,1 +1,3 @@
-20172831,ryuyena,bigdatamanagementanalysis
+20172831,ryuyena
+bigdatamanagementanalysis
+Kookmin Univ
