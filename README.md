@@ -1,1 +1,1 @@
-20172831,ryuyena,bigdatamanagementanalytics
+20172831,ryuyena,bigdatamanagementanalysis
